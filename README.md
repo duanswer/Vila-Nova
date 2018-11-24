@@ -40,4 +40,21 @@ Vila Nova
 #Rainwater network
 ![9_rede pluvial](https://user-images.githubusercontent.com/24206106/46548451-80bf9b80-c8a5-11e8-957b-abf5775ad604.JPG)
 
+#Area of environmental preservation
+![1-area de preservacao ambiental](https://user-images.githubusercontent.com/24206106/48972482-81a5bb80-f012-11e8-8e6b-6bdd507fc650.JPG)
+
+#Income distribution map
+![2-mapa de distribuicao de renda](https://user-images.githubusercontent.com/24206106/48972484-8ff3d780-f012-11e8-81ff-c1474c4d8e73.JPG)
+
+#Map of urban expansion
+![3 - mapa de expansao urbana](https://user-images.githubusercontent.com/24206106/48972486-95e9b880-f012-11e8-94af-abc60c2d99ef.JPG)
+
+#Map of risk area
+![mapas de area de risco](https://user-images.githubusercontent.com/24206106/48972490-9a15d600-f012-11e8-9659-489677fc2081.JPG)
+
+#Sectorization
+![setorizacao](https://user-images.githubusercontent.com/24206106/48972491-9e41f380-f012-11e8-9e86-66bd528a5793.JPG)
+
+
+
 
